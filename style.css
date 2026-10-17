@@ -1,0 +1,123 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+header{
+    display: flex ;
+    background-image: url("./images/Nissan Skyline GT-R banner.png");
+    background-size: cover;
+    background-position: center;
+background-repeat: no-repeat;
+    align-items: center;
+    padding: 3%;
+    min-height: 450px;
+    position: relative;
+}
+ul{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    margin-bottom: 415px;
+}
+nav{
+    width: 90%;
+}
+li{
+    list-style: none;
+    margin-left: 35px;
+}
+a{
+    text-decoration:none;
+    font-size: 30px;
+}
+.fy{
+    margin-left: 200px;
+    font-size: 30px;
+}
+.py{
+    font-size: 35px ;
+    top: -370px;
+    position: relative;
+}
+iframe{
+    top: -370px;
+    position: relative;
+}
+.oi{
+ font-size: 35px; 
+ position: relative;
+}
+h1{
+    font-size: 45px;
+}
+.ry{
+    margin-left: 250px;
+    margin-top: 350px;
+    position: relative;
+}
+.er{
+    position: relative;
+    bottom: 1100px;
+    border: solid;
+    right: 3px;
+}
+.yu{
+    position: relative;
+    bottom: 1100px;
+    font-size: 30px;
+}
+
+ h2{
+  font-size: 75px;
+  margin-left: 200px;
+  margin-top: 150px;
+  position: relative;
+}
+.ky{
+   bottom: 750px;
+   position: relative;
+   border: solid;
+}
+.ly{
+    font-size: 30px;
+    position: relative;
+    bottom: 750px;
+}
+.we{
+margin-left: 800px;  
+position: relative;
+bottom: 1250px;
+border: solid;
+}
+.by{
+    font-size: 30px;
+    position: relative;
+    bottom: 1250px;
+    left: 850px;
+}
+.ny{
+    position: relative;
+    left: 750px;
+    bottom: 2565px;
+    border: solid;
+}
+.dy{
+    position: relative;
+    left: 950px;
+    bottom: 2556px;
+    font-size: 30px;
+}
+.op{
+    font-size: 40px;
+    position: relative;
+    bottom: 1700px;
+}
+.qp{
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 100%;
+    position: relative;
+}
+.fi{
+    font-size: 40px;
+}
